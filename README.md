@@ -4,3 +4,6 @@ Modeling and forecasting the near-Earth space environment, specifically the ther
 
 Link to the paper: 
 https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025SW004757
+
+Data:
+https://zenodo.org/records/17101905
